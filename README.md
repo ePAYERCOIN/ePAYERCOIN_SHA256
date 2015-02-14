@@ -1,0 +1,1 @@
+﻿ePAYERCOIN SHA256 https://bitcointalk.org/index.php?topic=952259.0
